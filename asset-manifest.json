@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kavcakar/solution/static/css/main.1cf11365.css",
+    "main.js": "/kavcakar/solution/static/js/main.00f1e821.js",
+    "static/media/logo.png": "/kavcakar/solution/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/kavcakar/solution/index.html",
+    "main.1cf11365.css.map": "/kavcakar/solution/static/css/main.1cf11365.css.map",
+    "main.00f1e821.js.map": "/kavcakar/solution/static/js/main.00f1e821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf11365.css",
+    "static/js/main.00f1e821.js"
+  ]
+}
