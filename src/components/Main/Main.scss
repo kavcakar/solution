@@ -15,6 +15,10 @@
         &:hover .card-over{
             transform: translate(0%);
         }
+        &:hover img{
+            opacity: 1;
+        }
+            
 
         .title{
           position: absolute;
@@ -46,6 +50,7 @@ img{
     height: 350px;
     object-position: cover;
     border-radius: 10px;
+    opacity: 0.5;
 }
 
 .card-over{
@@ -60,4 +65,11 @@ img{
     transform: translateY(100%);
     transition: transform 0.7s ease-in-out;
     z-index: 3;
+    max-height: 75%;
+    text-align: justify;
+    overflow: auto;
+
+    &::-webkit-scrollbar{
+        display: none;
+    }
  }
